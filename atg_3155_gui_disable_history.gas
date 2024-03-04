@@ -1,0 +1,17 @@
+Program.Sub.ScreenSU.Start
+Program.Sub.ScreenSU.End
+
+Program.Sub.Preflight.Start
+
+Program.Sub.Preflight.End
+
+Program.Sub.Main.Start
+'Coded by: JLH
+'Project Start Date: 8/29/2011
+'Hook 15920
+
+F.Intrinsic.UI.ChangeCallerProperty(V.Passed.000012,"LOCK",1)
+
+Program.Sub.Main.End
+
+
